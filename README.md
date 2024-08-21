@@ -39,7 +39,7 @@ pip install keras.utils np_utils
 ```
 You can install other necessary packages by running:
 ```bash
-pip install -r requirements.txt
+pip install <package-name>
 ```
 
 ## Exploratory Data Analysis
